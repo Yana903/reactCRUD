@@ -1,0 +1,31 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "slug": "category-1",
+      "title": "Category 1"
+    },
+    {
+      "id": 2,
+      "slug": "category-2",
+      "title": "Category 2"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "vvv11",
+      "author": "sss1"
+    },
+    {
+      "id": 2,
+      "title": "title1",
+      "author": "author1"
+    },
+    {
+      "id": 3,
+      "title": "title2",
+      "author": "author2"
+    }
+  ]
+}
